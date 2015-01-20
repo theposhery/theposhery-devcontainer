@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# components here are either bower installed or separate repos
+/app/components
+/app/slides
+binaries
